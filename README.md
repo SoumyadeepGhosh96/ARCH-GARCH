@@ -1,0 +1,4 @@
+- This volatility clustering model deals with the secondary data taken from Yahoo Finance, and the data is on the National Stock Exchange or Nifty 50 which involves the Random Walk because it is a stock market data.
+- The data is considered from September 2007 to till date, and it is fundamental to mention that the analysis will be keeping on updated when everytime this notebook will be run. Therefore, this work is a part of live project which is slef depicted for analysis purposes.
+- The analysis first of all shows a normal summary of the time series using a line plot, and then it deals with the testing and return claculation. Finally, the analysis forecast the volatility using econometric models of linear time series like ARCH & GARCH.  
+- The objective of the analysis is to show the risk pattern or behaviour of the stock market when the stock prices are skyrocketing.
